@@ -4,51 +4,6 @@
       "title": "Test quote",
       "author": "Test author",
       "id": 1
-    },
-    {
-      "quote": "Hello",
-      "author": "Igor",
-      "id": 2
-    },
-    {
-      "title": "Hello\n",
-      "author": "few",
-      "id": 3
-    },
-    {
-      "title": "Magic",
-      "author": "Igor Petrov",
-      "id": 4
-    },
-    {
-      "title": "I am in love with N.",
-      "author": "IP",
-      "id": 5
-    },
-    {
-      "title": "Hey, Nikita!",
-      "author": "Igor",
-      "id": 6
-    },
-    {
-      "title": "Rare as is true love, true friendship is rarer.",
-      "author": "Jean de La Fontaine",
-      "id": 7
-    },
-    {
-      "title": "Test, quote",
-      "author": "Yes",
-      "id": 8
-    },
-    {
-      "title": "another quote ",
-      "author": "Another author",
-      "id": 9
-    },
-    {
-      "title": "dfgdfs",
-      "author": "fdgdf",
-      "id": 10
     }
   ]
 }
