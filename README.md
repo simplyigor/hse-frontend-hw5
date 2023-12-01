@@ -31,4 +31,4 @@ npx json-server --watch <ваш путь>/data/db.json --port 8000 # e.g. /Users
 
 **NB:** Обе сущности запускаются параллельно друг с другом через несколько терминалов :)
 
-Также, можно посмотреть видео-демонстрацию работы – [тык](https://drive.google.com/file/d/1iLUcQgeGovd_n9Czq5HI7YRG4zzCED5t/view?usp=sharing)
+Также, можно посмотреть видео-демонстрацию работы – [тык](https://drive.google.com/file/d/1M6ZtBwyeb87pY48WKd1a3G6JNNXYWkyd/view?usp=sharing)
