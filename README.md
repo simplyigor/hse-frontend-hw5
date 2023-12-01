@@ -22,7 +22,7 @@ yarn
 ```
 yarn start
 ```
-2. Json-server
+2. Запустить json-server
 
 ```
 npm install -g json-server
